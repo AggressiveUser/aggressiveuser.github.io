@@ -9,7 +9,7 @@
   
 1. [Apple](https://support.apple.com/en-in/HT201536) - AggressiveUser
 2. [Microsoft](https://msrc.microsoft.com/update-guide/acknowledgement) - AggressiveUser
-3. Inflectra
+3. [Inflectra](https://www.inflectra.com/Company/Responsible-Disclosure.aspx)
 4. [AirShip](https://www.airship.com/legal/full-disclosure-security-policy/)
 5. Lenovo Appreciation Letter
 6. Intel Appreciation Letter
